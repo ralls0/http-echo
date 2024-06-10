@@ -1,0 +1,12 @@
+{
+  "name": "http-echo",
+  "version": "1.0.0",
+  "description": "Simple microservice HTTP echo, the microservice responds with the request information received",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
